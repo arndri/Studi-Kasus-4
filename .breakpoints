@@ -1,0 +1,20 @@
+{
+  "files": {
+    "kolaborasi/dummy/proses.txt": [
+      {
+        "id": "f02ff052-b9b7-4175-8500-be7e6df6730c",
+        "line": 1,
+        "version": 29,
+        "index": 0
+      }
+    ],
+    "kolaborasi/library/proses.h": [
+      {
+        "id": "6175fcd1-4f8c-4170-b07c-e8b398607e35",
+        "line": 50,
+        "version": 1064,
+        "index": 1034
+      }
+    ]
+  }
+}
